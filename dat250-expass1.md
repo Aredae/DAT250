@@ -1,4 +1,4 @@
-##Short Report Are Dæhlen
+**Short Report Are Dæhlen**
 
 In this assignment i have learned the basics of Heroku, as well as gotten more practice using the commandline and setting environment variables.
 
