@@ -1,4 +1,5 @@
-##Short Report Are Dæhlen
+##Short Report Are DÃ¦hlen
+
 In this assignment i have learned the basics of Heroku, as well as gotten more practice using the commandline and setting environment variables.
 
 I ran into some problems with the Java JDK when trying to build the program using the *mvn clean install* command. I solved this by changing my environment variable and starting over. I must have done something wrong during the **Getting Started On Heroku With Java** tutorial.
