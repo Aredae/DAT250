@@ -10,4 +10,9 @@ Here is a link to my repository with experiment 1 and 2: [https://github.com/Are
 
 To inspect the database tables i used the derby's ij scripting tool. With this I could query the database after connecting to it. By running the __show tables;__ command i got and overview of the tables in my database.
 I also ran simple SQL queries to inspect certain tables.
+
 *Below is a screenshot of a table inspection on the Person table of experiment 2*
+
+![Image](https://github.com/Aredae/DAT250-Lab-1/blob/master/images/DAT250LAB2.PNG "SELECT * FROM TEST.PERSON")
+
+I have no pending issues with this assignment.
