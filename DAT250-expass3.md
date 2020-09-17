@@ -29,7 +29,9 @@ I solved this by going into the services console and starting the server from th
 
 **My MapReduce Operation**
 
-The MapReduce Operation I developed obtains a collection of each item with the total ammount of money spent on each item. This can be useful for figuring out which item makes the most money for whoever is selling it.
+The MapReduce Operation I developed obtains a collection of each item with the total ammount of money spent on each item. This can be useful for figuring out how much money any given item has made. By studying this information, items that make little money can be replaced.
+
 *Experiment 2 MapReduce My Operation*
 ![Image](https://github.com/Aredae/DAT250/blob/master/images/MapReduce3.PNG "Validation Ok")
 
+I have no pending issues with this assignment.
